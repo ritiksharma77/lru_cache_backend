@@ -3,7 +3,7 @@ This project is based on GoLang, and it implements the LRU Cache Management Syst
 # How to run.
 
 ```
-    go mod init lru-cache-backend
+    go mod init lru_cache_backend
     go mod tidy
     go run main.go handler.go cache.go
 ```
